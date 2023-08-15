@@ -23,7 +23,7 @@ ___
 <img width="300" height="150" src="https://telegra.ph/file/d1715629893d72cecf991.jpg" />
 </p><br>
 
-![KensRansyah](https://cardivo.vercel.app/api?name=KensRansyah&description=Hi,%20i%27m%20Kens%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/40540dc07ff07dae40e85.jpg&s=10&backgroundColor=%23ecf0f1&instagram=itsmynekens &github=KensBot&site=kensbotz@gmail.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![KensRansyah](https://cardivo.vercel.app/api?name=KensRansyah&description=Hi,%20i%27m%20Kens%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/40540dc07ff07dae40e85.jpg&s=10&backgroundColor=%23ecf0f1&instagram=itsmynekens&github=KensBot&site=kensbotz@gmail.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
 ```
