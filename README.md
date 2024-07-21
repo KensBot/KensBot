@@ -16,13 +16,6 @@ ___
 
 
 ___
-```
-            You Visitors To:
-```
-<p align="center">
-<img width="300" height="150" src="https://telegra.ph/file/d1715629893d72cecf991.jpg" />
-</p><br>
-
 ![KensRansyah](https://cardivo.vercel.app/api?name=KensRansyah&description=Hi,%20i%27m%20Kens%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/40540dc07ff07dae40e85.jpg&s=10&backgroundColor=%23ecf0f1&instagram=itsmynekens&github=KensBot&site=kensbotz@gmail.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
@@ -51,14 +44,4 @@ ___
   
 <p align="center">
   <a href="https://github.com/KensBot"><img src="https://github-profile-trophy.vercel.app/?username=KensBot&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-  
-                                        
-### [` << Contact & Support Me >> `]()
-
-<p align="center">
-<a href="https://www.instagram.com/Keennss_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="kensbotz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://chat.whatsapp.com/F97fIZwAymoAEr5bEujenM" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp 1"></a>
-<a href="https://chat.whatsapp.com/DAKD56utNR89NsebfYi6lq" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp 2"></a>
 </p>
