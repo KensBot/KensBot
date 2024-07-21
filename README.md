@@ -36,18 +36,6 @@ ___
 ```
 ___
 
-### [` << MY NAME >> `](https://wa.me/6285726319205)
-```
-Intro = {
-"Name": "Kens Ransyah",
-"Status": "Seorang Penyendiri Yang Lebih Hidup Di Dunia Virtual",
-"Address": "Jakarta, Jawa Barat, Indonesia",
-"Age": "Private",
-"Birthday": ". . . ."
-}
-```
-___
-
 
 <p align="center">
   <a href="https://github.com/KensBot"><img src="https://github-readme-stats.vercel.app/api?username=KensBot&theme=tokyonight&show_icons=true" /></a>
