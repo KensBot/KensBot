@@ -23,7 +23,3 @@ ___
 <p align="center">
   <a href="https://github.com/Kens"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KensBot&theme=tokyonight&layout=compact" /></a>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/KensBot"><img src="https://github-profile-trophy.vercel.app/?username=KensBot&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
